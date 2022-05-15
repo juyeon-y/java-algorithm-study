@@ -22,12 +22,12 @@
 
 |문제 유형|문제 번호|
 |:---:|:---:|
-|자료구조|10828, 9012, 18258, 1158|
+|자료구조|[10828](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/10828.java), [9012](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/9012.java), [18258](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/18258.java), [1158](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/1158.java)|
 |자료구조2||
 |트리||
 |수학||
 |그리디||
-|동적계획법 1|10870|
+|동적계획법 1|[10870](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/10870.java)|
 |동적계획법 2||
 |투 포인터||
 |구현||
@@ -76,11 +76,11 @@
 
 <br/><br/>**D1**<br/>
 
-1545, 2019, 1936, 1933, 1938, 2025, 2027, 2029, 2043, 2046, 2047, 2050, 2056, 2058, 2063, 2068, 2070, 2071, 2072
+[1545](https://github.com/juyeon-y/java-algorithm-study/blob/main/swea/d1/1545.java), [2019](https://github.com/juyeon-y/java-algorithm-study/blob/main/swea/d1/2019.java), [1936](https://github.com/juyeon-y/java-algorithm-study/blob/main/swea/d1/1936.java), [1933](https://github.com/juyeon-y/java-algorithm-study/blob/main/swea/d1/1933.java), [1938](https://github.com/juyeon-y/java-algorithm-study/blob/main/swea/d1/1938.java), [2025](https://github.com/juyeon-y/java-algorithm-study/blob/main/swea/d1/2025.java), [2027](https://github.com/juyeon-y/java-algorithm-study/blob/main/swea/d1/2027.java), [2029](https://github.com/juyeon-y/java-algorithm-study/blob/main/swea/d1/2029.java), [2043](https://github.com/juyeon-y/java-algorithm-study/blob/main/swea/d1/2043.java), [2046](https://github.com/juyeon-y/java-algorithm-study/blob/main/swea/d1/2046.java), [2047](https://github.com/juyeon-y/java-algorithm-study/blob/main/swea/d1/2047.java), [2050](https://github.com/juyeon-y/java-algorithm-study/blob/main/swea/d1/2050.java), [2056](https://github.com/juyeon-y/java-algorithm-study/blob/main/swea/d1/2056.java), [2058](https://github.com/juyeon-y/java-algorithm-study/blob/main/swea/d1/2058.java), [2063](https://github.com/juyeon-y/java-algorithm-study/blob/main/swea/d1/2063.java), [2068](https://github.com/juyeon-y/java-algorithm-study/blob/main/swea/d1/2068.java), [2070](https://github.com/juyeon-y/java-algorithm-study/blob/main/swea/d1/2070.java), [2071](https://github.com/juyeon-y/java-algorithm-study/blob/main/swea/d1/2071.java), [2072](https://github.com/juyeon-y/java-algorithm-study/blob/main/swea/d1/2072.java)
 
 </br><br/>**D2**</br>
 
-1204, 1284, 1285, 1288, 1928, 1940
+[1204](https://github.com/juyeon-y/java-algorithm-study/blob/main/swea/d2/1204.java), 1284, 1285, 1288, 1928, 1940
 
 </br><br/>**D3**</br>
 
