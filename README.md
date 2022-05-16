@@ -80,7 +80,7 @@
 
 </br><br/>**D2**</br>
 
-[1204](https://github.com/juyeon-y/java-algorithm-study/blob/main/swea/d2/1204.java), 1284, 1285, 1288, 1928, 1940
+[1204](https://github.com/juyeon-y/java-algorithm-study/blob/main/swea/d2/1204.java), [1284](https://github.com/juyeon-y/java-algorithm-study/blob/main/swea/d2/1284.java), [1288](https://github.com/juyeon-y/java-algorithm-study/blob/main/swea/d2/1288.java), [1928](https://github.com/juyeon-y/java-algorithm-study/blob/main/swea/d2/1928.java), [1940](https://github.com/juyeon-y/java-algorithm-study/blob/main/swea/d2/1940.java), [1945](https://github.com/juyeon-y/java-algorithm-study/blob/main/swea/d2/1945.java), [1946](https://github.com/juyeon-y/java-algorithm-study/blob/main/swea/d2/1946.java), [1948](https://github.com/juyeon-y/java-algorithm-study/blob/main/swea/d2/1948.java), 1954, 1959, 1961, 1966, 1970, 1974, 1976
 
 </br><br/>**D3**</br>
 
