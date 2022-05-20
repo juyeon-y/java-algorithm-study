@@ -8,15 +8,13 @@ class Solution {
         StringTokenizer st;
         for(int i=1; i<=t; i++){
             int n = Integer.parseInt(br.readLine());
-            int dist = 0, speed=0;
-            for(int j=0; j<n; j++){
-                st = new StringTokenizer(br.readLine());
-                char cmd = st.nextToken().charAt(0);
-                if(cmd=='1') speed+=Integer.parseInt(st.nextToken());
-                else if(cmd=='2') speed = Math.max(speed-Integer.parseInt(st.nextToken()),0);
-                dist+=speed;
-            }
-            bw.write("#"+i+" "+dist+"\n");
+            int[] arr = new int[n];
+            st = new StringTokenizer(br.readLine());
+            for(int j=0; j<n; j++) arr[j] = Integer.parseInt(st.nextToken());
+            Arrays.sort(arr);
+            bw.write("#"+i+" ");
+            for(int j=0; j<n; j++) bw.write(arr[j]+" ");
+            bw.write("\n");
         }
         br.close();
         bw.flush();
