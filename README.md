@@ -22,7 +22,7 @@
 
 |문제 유형|문제 번호|
 |:---:|:---:|
-|자료구조|[10828](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/10828.java), [9012](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/9012.java), [18258](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/18258.java), [1158](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/1158.java)|
+|자료구조|[10828](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/10828.java), [9012](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/9012.java), [18258](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/18258.java), [1158](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/1158.java), [2164](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/2164.java), [10866](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/10866.java), 1874, 1935, 10799, 1966	, 2346, 2504, 2800, 2493, 22942, 1918|
 |자료구조2||
 |트리||
 |수학||
