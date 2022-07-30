@@ -17,6 +17,13 @@
 <br/><br/>
 
 ## **2) 백준**
+<br/><br/>**solved.ac**<br/> 
+
+*#class1* ([링크](https://solved.ac/class/1))<br/>
+
+[1000](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/1000.java), [1001](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/1001.java), [1008](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/1008.java), [1152](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/1152.java), [1157](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/1157.java), [1330](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/1330.java), [1546](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/1546.java), [2438](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/2438.java), [2439](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/2439.java), [2475](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/2475.java), [2557](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/2557.java), [2562](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/2562.java), [2577](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/2577.java), [2675](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/2675.java), [2739](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/2739.java), [2741](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/2741.java), [2742](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/2742.java), [2753](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/2753.java), [2884](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/2884.java), [2908](https://github.com/juyeon-y/java-algorithm-study/blob/main/baekjoon/2908.java), 
+
+
 
 <br/><br/>*# 코딩테스트 대비 문제집 with Baekjoon* ([링크](https://github.com/tony9402/baekjoon))<br/><br/>
 
@@ -71,6 +78,7 @@
 |||
 
 <br/><br/>
+
 
 ## **3) SWEA**
 
